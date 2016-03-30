@@ -1,0 +1,7 @@
+test
+
+"grevans" is the github account name
+"honest4github" is the github account password
+"g_repo" is the name of the repository
+"c:\users\Admin\gitrepolocal\" is the name of the local repository
+"key1" is the name of my first SSH key (secret passphrase)
